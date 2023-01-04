@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-<!--
-**Deepakkr900678/Deepakkr900678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Real Estate Web Application](https://realestateapp-zyvr.onrender.com)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Structure And Algorithm, HTML5, CSS3, Adv.JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Oops.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/Deepakkr900678](https://github.com/Deepakkr900678)
+
+- 💬 Ask me about **Data Structure And Algorithm, HTML5, CSS3, Adv.JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Oops.**
+
+- 📫 How to reach me **deepakkumar21@mail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eauDXV2zKrPeDE-Td-37jRTqNHX5cj9O](https://drive.google.com/drive/folders/1eauDXV2zKrPeDE-Td-37jRTqNHX5cj9O)
